@@ -1,0 +1,5 @@
+def SqOfSortedArr(array):
+  pass
+  
+
+
